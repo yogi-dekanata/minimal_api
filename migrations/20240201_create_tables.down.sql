@@ -1,0 +1,10 @@
+DROP VIEW IF EXISTS StokBarang;
+DROP TABLE IF EXISTS PengeluaranBarangDetail;
+DROP TABLE IF EXISTS PengeluaranBarangHeader;
+DROP TABLE IF EXISTS PenerimaanBarangDetail;
+DROP TABLE IF EXISTS PenerimaanBarangHeader;
+DROP TABLE IF EXISTS Warehouse;
+DROP TABLE IF EXISTS Product;
+DROP TABLE IF EXISTS Customer;
+DROP TABLE IF EXISTS Supplier;
+DROP DATABASE IF EXISTS warehouse_db;

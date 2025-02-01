@@ -1,0 +1,13 @@
+# Mengabaikan file log
+*.log
+
+# Mengabaikan folder build
+/build/
+
+# Mengabaikan file konfigurasi IDE tertentu
+.idea/
+*.iml
+
+# Mengabaikan file sistem operasi
+.DS_Store
+Thumbs.db
